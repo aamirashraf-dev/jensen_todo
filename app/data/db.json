@@ -1,26 +1,20 @@
 [
   {
     "id": 1,
-    "title": "Test",
-    "description": "Ett test",
+    "title": "Test Todo",
+    "description": "Testing creation",
     "completed": false
   },
   {
     "id": 2,
-    "title": "Test",
-    "description": "Ett test",
+    "title": "Fetch Me",
+    "description": "",
     "completed": false
   },
   {
     "id": 3,
-    "title": "Test",
-    "description": "Ett test",
-    "completed": false
-  },
-  {
-    "id": 4,
-    "title": "Test",
-    "description": "Ett test",
-    "completed": false
+    "title": "New",
+    "description": "Updated",
+    "completed": true
   }
 ]
